@@ -24,7 +24,6 @@ The primary challenges of this project will be finding ways of incorporating rea
 
 ### 5. Distribution of work between the team members (bullet points and keywords) link to a shared Git repo (just one per project)
 
-https://github.com/LawTam/AirPollutionSimulation
 
 Someone makes particles (randomly dispersed) * Finnegan & Lawrence
 
